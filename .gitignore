@@ -1,0 +1,10 @@
+*.iml
+*.class
+.idea
+target
+*.log
+.classpath
+.project
+.settings/
+*.DS_Store
+deploy/db/config/
